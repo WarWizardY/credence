@@ -1,0 +1,23 @@
+# Virtual Environment
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Output files
+output/
+data/feature_store/
+data/*.json
+
+# Large PDFs / test files
+*.pdf
+
+# Model cache
+.cache/
+models/
+
+# OS files
+.DS_Store
+Thumbs.db
